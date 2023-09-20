@@ -1,11 +1,43 @@
 ### Hi there 👋
+<!-- 기술 스택 -->
+## 기술 스택
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 </div>
+
+<!-- 프레임워크 -->
+## 프레임워크
+
+<div align="center">
+    <!-- 프레임워크 뱃지 예시 -->
+    <img src="뱃지 이미지 URL" alt="프레임워크 뱃지">
+    <img src="뱃지 이미지 URL" alt="프레임워크 뱃지">
+    <!-- 추가 프레임워크 뱃지들 -->
+</div>
+
+<!-- 개발 환경 -->
+## 개발 환경
+
+<div align="center">
+    <!-- 개발 환경 뱃지 예시 -->
+    <img src="뱃지 이미지 URL" alt="개발 환경 뱃지">
+    <img src="뱃지 이미지 URL" alt="개발 환경 뱃지">
+    <!-- 추가 개발 환경 뱃지들 -->
+</div>
+
+<!-- SNS & 플랫폼 -->
+## SNS & 플랫폼
+
+<div align="center">
+    <!-- SNS & 플랫폼 뱃지 예시 -->
+    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+    <!-- 추가 SNS & 플랫폼 뱃지들 -->
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyoya&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=donghyoya&show_icons=true">
 
