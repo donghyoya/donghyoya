@@ -28,7 +28,7 @@
 
 <div align="center">
     <!-- 개발 환경 뱃지 예시 -->
-    <img src="뱃지 이미지 URL" alt="개발 환경 뱃지">
+    <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white" />
     <img src="뱃지 이미지 URL" alt="개발 환경 뱃지">
     <!-- 추가 개발 환경 뱃지들 -->
 </div>
