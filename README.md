@@ -34,6 +34,24 @@
     <!-- 추가 개발 환경 뱃지들 -->
 </div>
 
+## 운영체제 & 서버
+
+<div align="center">
+    <!-- SNS & 플랫폼 뱃지 예시 -->
+    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+    <!-- 추가 SNS & 플랫폼 뱃지들 -->
+</div>
+
+## DevOps 툴
+
+<div align="center">
+    <!-- SNS & 플랫폼 뱃지 예시 -->
+    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+    <!-- 추가 SNS & 플랫폼 뱃지들 -->
+</div>
+
 <!-- SNS & 플랫폼 -->
 ## SNS & 플랫폼
 
