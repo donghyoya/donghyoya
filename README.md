@@ -31,6 +31,7 @@
     	<img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/VsCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" />
+	<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white" />
     <!-- 추가 개발 환경 뱃지들 -->
 </div>
 
