@@ -38,8 +38,9 @@
 
 <div align="center">
     <!-- SNS & 플랫폼 뱃지 예시 -->
-    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
-    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
+   	<img src="https://img.shields.io/badge/Centos-262577?style=flat&logo=centos&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
     <!-- 추가 SNS & 플랫폼 뱃지들 -->
 </div>
 
