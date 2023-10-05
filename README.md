@@ -50,6 +50,7 @@
 <div align="center">
     <!-- SNS & 플랫폼 뱃지 예시 -->
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
     <!-- 추가 SNS & 플랫폼 뱃지들 -->
 </div>
