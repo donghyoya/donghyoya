@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://backjui-git.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!-- 기술 스택 -->
 ## 기술 스택
