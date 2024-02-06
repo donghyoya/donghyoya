@@ -55,16 +55,8 @@
     <!-- 추가 SNS & 플랫폼 뱃지들 -->
 </div>
 
-<!-- SNS & 플랫폼 -->
-## SNS & 플랫폼
-
-<div align="center">
-    <!-- SNS & 플랫폼 뱃지 예시 -->
-    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
-    <img src="뱃지 이미지 URL" alt="SNS & 플랫폼 뱃지">
-    <!-- 추가 SNS & 플랫폼 뱃지들 -->
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyoya&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=donghyoya&show_icons=true">
 
 <!--
 **donghyoya/donghyoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
